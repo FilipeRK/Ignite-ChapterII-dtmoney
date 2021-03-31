@@ -21,9 +21,9 @@ createServer({
         },
         {
           id: 2,
-          title: 'Teste',
+          title: 'Supermercado',
           type: 'withdraw',
-          category: 'Testando',
+          category: 'Alimentação',
           amount: 500,
           createdAt: new Date('2021-02-20 14:00:00')
         }
